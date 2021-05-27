@@ -1,6 +1,17 @@
 # Installation Steps
- 1)Install the dependencies- 
- 2)Start the deployment server using yarn or Npm
+ 1)Install the dependencies-  yarn install or npm
+ 
+ 2)Connect to Firebase- Generate the Keys
+ 
+ 3)Create and add it in the env.local
+ 
+ 4)add stripe account and add the key
+ 
+ 4) yar run dev
+
+5)If u stucked somewhere!!
+ write-rhrithik1dev@gmail.co,
+ 
  
 
 
