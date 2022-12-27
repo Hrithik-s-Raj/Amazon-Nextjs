@@ -10,7 +10,7 @@
  4) yar run dev
 
 5)If u stucked somewhere!!
- write-rhrithik1dev@gmail.co,
+ write-rhrithik1dev@gmail.com
  
  
 
